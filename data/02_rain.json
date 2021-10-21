@@ -1,0 +1,229 @@
+{
+    "title" : "02.강수량",
+    "items" : [
+        {
+            "title" : "01.강수량"
+            ,"year" : true
+            ,"season" : true
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "mm"
+        }
+        ,
+        {
+            "title" : "02.최다1시간강수량"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "mm"
+        }
+        ,
+        {
+            "title" : "03.최다일강수량"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "mm"
+        }
+        ,
+        {
+            "title" : "04.5일 최다강수량"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "mm"
+        }
+        ,
+        {
+            "title" : "05.연최다2일계속강수량"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "mm"
+        }
+        ,
+        {
+            "title" : "06.연최다3일계속강수량"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "mm"
+        }
+        ,
+        {
+            "title" : "07.연최다5일계속강수량"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "mm"
+        }
+        ,
+        {
+            "title" : "08.최대무강수계속기간"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "09.강수강도"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "mm"
+        }
+        ,
+        {
+            "title" : "10.월강수량 비율"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "mm"
+        }
+        ,
+        {
+            "title" : "11.95퍼센타일 강수일수"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "12.99퍼센타일 강수일수"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "13.최다1시간강수량 1mm 이상 일수"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "14.최다1시간 강수량 5mm 이상 일수"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "15.최다1시간강수량 10mm 이상 일수"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "16.최다1시간강수량 30mm 이상의 연간일수"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "17.일강수량 0.0mm 이상 일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "18.일강수량 0.1mm 이상 일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "19.일강수량 1mm 이상 일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "20.일강수량 10mm 이상 일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "21.일강수량 30mm 이상 일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "22.일강수량 50mm 이상의 연간일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "23.일강수량 80mm 이상의 연간일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "24.일강수량 100mm 이상의 연간일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "25.일강수량 150mm 이상의 연간일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        }
+    ]
+}

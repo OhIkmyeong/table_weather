@@ -1,0 +1,21 @@
+{
+    "title" : "00. 한반도",
+    "items" : [
+        {   "title" : "01. 한반도 연평균 기온"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : true
+            ,"per" : "°C"
+        }
+        ,
+        {
+            "title" : "02. 한반도 연평균 강수량"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : true
+            ,"per" : "°C"
+        }
+    ]
+}
