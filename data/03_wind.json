@@ -1,0 +1,31 @@
+{
+    "title" : "03.바람",
+    "items" : [
+        {
+            "title" : "01.평균풍속"
+            ,"year" : true
+            ,"season" : true
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "m/s"
+        }
+        ,
+        {
+            "title" : "02.풍향별 횟수의 백분율 및 최대풍속"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "m/s"
+        }
+        ,
+        {
+            "title" : "03.풍향별, 풍속계급별 연간관측횟수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "m/s"
+        }
+    ]
+}

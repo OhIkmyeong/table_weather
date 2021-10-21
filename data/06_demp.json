@@ -1,0 +1,13 @@
+{
+    "title" : "06.습도",
+    "items" : [
+        {
+            "title" : "01.평균상대습도"
+            ,"year" : true
+            ,"season" : true
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "%"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title" : "08.증발량",
+    "items" : [
+        {
+            "title" : "01.증발량(소형)"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "mm"
+        }
+    ]
+}

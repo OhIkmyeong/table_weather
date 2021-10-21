@@ -1,0 +1,76 @@
+{
+    "title" : "04.적설",
+    "items" : [
+        {
+            "title" : "01.연최심적설"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "cm"
+        }
+        ,
+        {
+            "title" : "02.연최심신적설"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "cm"
+        }
+        ,
+        {
+            "title" : "03.연신적설합계"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "cm"
+        }
+        ,
+        {
+            "title" : "04.신적설 0cm 이상의 연간일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "05.신적설 1cm 이상의 연간일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "06.신적설 5cm 이상의 연간일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "07.신적설 10cm 이상의 연간일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        }
+        ,
+        {
+            "title" : "08.신적설 20cm 이상의 연간일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        }
+    ]
+}

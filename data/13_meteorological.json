@@ -1,0 +1,101 @@
+{
+    "title" : "13.기상현상",
+    "items" : [
+        {
+            "title" : "01.연안개일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "02.연뇌전일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "03.연폭풍일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "04.연눈일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "05.연서리일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "06.연얼음일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "07.연황사일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "08.연우박일수"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "09.연눈최장지속기간"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "10.연얼음최장지속기간"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "11.안개계속기간"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "12.강수계속기간"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        }
+    ]
+}

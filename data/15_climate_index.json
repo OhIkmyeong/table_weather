@@ -1,0 +1,117 @@
+{
+    "title" : "15.기후지수",
+    "items" : [
+        {
+            "title" : "01.한파일수"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "02.열대야일수"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "03.폭염일수"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "04.여름일수"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "05.식물성장 가능기간"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "06.성장계절강수량"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "mm"
+        },
+        {
+            "title" : "07.온난일 계속기간"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "08.한랭야 계속기간"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "09.여름철 체감온도"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "°C"
+        },
+        {
+            "title" : "10.겨울철 체감온도"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "°C"
+        },
+        {
+            "title" : "11.일최고기온 90퍼센타일 초과인 연간일수의 비"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "12 일최저기온 90퍼센타일 초과인 연간일수의 비"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "13 일최고기온 10퍼센타일 미만인 연간일수의 비"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        },
+        {
+            "title" : "14 일최저기온 10퍼센타일 미만인 연간일수의 비"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "일"
+        }
+    ]
+}

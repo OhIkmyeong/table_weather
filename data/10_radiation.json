@@ -1,0 +1,13 @@
+{
+    "title" : "10.일사",
+    "items" : [
+        {
+            "title" : "01.전천일사량 평균값"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "kWh/m²"
+        }
+    ]
+}

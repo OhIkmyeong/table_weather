@@ -1,0 +1,21 @@
+{
+    "title" : "09.일조",
+    "items" : [
+        {
+            "title" : "01.일조시간"
+            ,"year" : true
+            ,"season" : true
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "kWh/m²"
+        },
+        {
+            "title" : "02.일조율"
+            ,"year" : true
+            ,"season" : false
+            ,"month" : true
+            ,"korea" : false
+            ,"per" : "kWh/m²"
+        }
+    ]
+}

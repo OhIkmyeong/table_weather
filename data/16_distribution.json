@@ -1,0 +1,29 @@
+{
+    "title" : "16.요소별 분포 및 경년변화",
+    "items" : [
+        {
+            "title" : "01.기온과 강수량의 월분포"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "??"
+        },
+        {
+            "title" : "02.연평균기온의 경년변화"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "??"
+        },
+        {
+            "title" : "03.연강수량의 경년변화"
+            ,"year" : false
+            ,"season" : false
+            ,"month" : false
+            ,"korea" : false
+            ,"per" : "??"
+        }
+    ]
+}
